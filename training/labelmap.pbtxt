@@ -1,0 +1,89 @@
+item {
+  id: 1
+  name: 'pharmacy'
+}
+
+item {
+  id: 2
+  name: 'beauty'
+}
+
+item {
+  id: 3
+  name: 'oralb'
+}
+
+item {
+  id: 4
+  name: 'whisper'
+}
+
+item {
+  id: 5
+  name: 'vicks'
+}
+
+item {
+  id: 6
+  name: 'home'
+}
+
+item {
+  id: 7
+  name: 'gillette'
+}
+
+item {
+  id: 8
+  name: 'w'
+}
+
+item {
+  id: 9
+  name: 'orlab'
+}
+
+item {
+  id: 10
+  name: 'ambipure'
+}
+
+item {
+  id: 11
+  name: 'oral'
+}
+
+item {
+  id: 12
+  name: 'olay'
+}
+
+item {
+  id: 13
+  name: 'pampers'
+}
+
+item {
+  id: 14
+  name: 'venus'
+}
+
+item {
+  id: 15
+  name: 'ambipur'
+}
+
+item {
+  id: 16
+  name: 'gillete'
+}
+
+item {
+  id: 17
+  name: 'reject'
+}
+
+item {
+  id: 18
+  name: 'ariel'
+}
